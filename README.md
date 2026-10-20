@@ -28,7 +28,7 @@ Kotlin, Android Studio, Android SDK, CameraX, Firebase Authentication, Firebase 
 
 ## Download and Installation
 
-The compiled Android application is available in the [GitHub Releases](../../releases) section.
+The compiled Android application is available in the [GitHub Releases](https://github.com/gautami-19/geo-tag-camera-android-app/releases/tag/v1.0.1) section.
 
 1. Open the latest available release.
 2. Download the APK asset.
